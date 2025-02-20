@@ -508,7 +508,3 @@ Face à une application native vieillissante, l’équipe d’Etam a :
 Concernant l’installation de la PWA, une interface personnalisée a été conçue :
 - **Avant l’installation** : Une invite sur la première tuile propose le message « Soyez le premier à connaître nos dernières actualités. Notre application est rapide, légère et fonctionne en mode hors ligne. »
 - **Après installation** : L’expérience devient immersive grâce à une interface en plein écran, avec un design proche de celui d’une application native (ex. : menu de navigation en bas de l’écran).
-
----
-
-# Fin de la Traduction Complète
